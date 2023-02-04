@@ -97,4 +97,3 @@ header .icons span:last-child{
 .days li.active::before{
   background: #140099;
 }
-/* the only reason this comment exist is because Git is a fucking asshole */
